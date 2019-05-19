@@ -6,7 +6,7 @@
   "env": {
     "APIKEY": {
       "description": "Youtube API V3 KEY",
-      "value": "AIzaSyDOy40AKnOUvotuyMJ8Fk9guYbecB3ZUXo"
+      "value": "AIzaSyB8ZsXT8X2i5XlanON1zIe7YT4gDnqCMZA"
     },
     "PLAYLIST_ID": {
       "description": "推荐内容 Playlist ID",
